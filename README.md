@@ -168,9 +168,9 @@ Resultados obtenidos con la semilla `42` (los tiempos pueden variar en otra máq
 
 | Dígitos | Tiempo sin Karatsuba (ms) | Memoria sin Karatsuba (KB) | Tiempo con Karatsuba (ms) | Memoria con Karatsuba (KB) |
 |---|---|---|---|---|
-| 20 | _pendiente_ | _pendiente_ | 0.157 | 0.88 |
-| 50 | _pendiente_ | _pendiente_ | 0.678 | 1.32 |
-| 100 | _pendiente_ | _pendiente_ | 1.607 | 1.75 |
+| 20 | 0.000168 | 0.05 | 0.157 | 0.88 |
+| 50 | 0.000298 | 0.07 | 0.678 | 1.32 |
+| 100 | 0.000517 | 0.11 | 1.607 | 1.75 |
 
 **Método utilizado:** _pendiente_
 
